@@ -119,12 +119,14 @@ I'm passionate about creating intelligent systems that make a real difference. W
   <a href="https://seaborn.pydata.org" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="50" height="50" alt="Seaborn" /></a>
   <a href="https://scikit-learn.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-Learn" /></a>
   <a href="https://opencv.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="50" height="50" alt="OpenCV" /></a>
+  <a href="https://ultralytics.com" target="_blank"><img src="https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/680a070c3b99253410dd3e61_Ultralytics_mark_blue.svg" width="50" height="50" alt="YOLO" /></a>
 </div>
 
 <div align="center">
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" /></a>
   <a href="https://pytorch.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" /></a>
   <a href="https://huggingface.co" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50" height="50" alt="Hugging Face" /></a>
+  <a href="https://openai.com" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/openai.png" width="50" height="50" alt="OpenAI" /></a>
   <a href="https://www.langchain.com" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/langchain.png" width="50" height="50" alt="LangChain" /></a>
   <a href="https://python.langchain.com/docs/langgraph" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/langgraph-color.png" width="50" height="50" alt="LangGraph" /></a>
   <a href="https://llamaindex.ai" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/llamaindex-color.png" width="50" height="50" alt="LlamaIndex" /></a>
@@ -132,7 +134,8 @@ I'm passionate about creating intelligent systems that make a real difference. W
 </div>
 
 <div align="center">
-  <a href="https://ultralytics.com" target="_blank"><img src="https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/680a070c3b99253410dd3e61_Ultralytics_mark_blue.svg" width="50" height="50" alt="YOLO" /></a>
+  <a href="https://vllm.ai" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/vllm-color.png" width="50" height="50" alt="vLLM" /></a>
+  <a href="https://ollama.com" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/ollama.png" width="50" height="50" alt="Ollama" /></a>
   <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" /></a>
   <a href="https://flask.palletsprojects.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="50" height="50" alt="Flask" /></a>
   <a href="https://streamlit.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="50" height="50" alt="Streamlit" /></a>
@@ -149,15 +152,15 @@ I'm passionate about creating intelligent systems that make a real difference. W
   <a href="https://sqlite.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite" /></a>
   <a href="https://www.mongodb.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" /></a>
   <a href="https://qdrant.tech" target="_blank"><img src="https://qdrant.tech/img/qdrant-logo.svg" width="50" height="50" alt="Qdrant" /></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" /></a>
 </div>
 
 <div align="center">
-  <a href="https://git-scm.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" /></a>
   <a href="https://github.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub" /></a>
   <a href="https://www.linux.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" /></a>
+  <a href="https://jupyter.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" /></a>
-  <a href="https://jupyter.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /></a>
 </div>
 
