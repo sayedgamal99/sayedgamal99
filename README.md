@@ -177,20 +177,12 @@ I'm passionate about creating intelligent systems that make a real difference. W
 
 ---
 
-<!-- ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-  <h3>💫 "Innovation distinguishes between a leader and a follower." - Steve Jobs</h3>
   <p><strong>Ready to turn ideas into reality? Let's connect and create something extraordinary!</strong></p>
 
   <img src="https://komarev.com/ghpvc/?username=sayedgamal99&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
   <br><br>
 
-</div> -->
-
-  <!-- <strong>⭐ If you find my work interesting, consider giving my repositories a star! ⭐</strong> -->
+</div>
