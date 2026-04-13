@@ -13,9 +13,6 @@
   <a href="mailto:sayedgamall@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://coff.ee/sayedgamal">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
   <!-- <img src="https://komarev.com/ghpvc/?username=sayedgamal99&style=for-the-badge&color=blueviolet" alt="Profile Views" /> enable it later when views overrides 300-->
 </p>
 
@@ -53,8 +50,8 @@ I'm passionate about creating intelligent systems that make a real difference. W
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/sayedgamal99/drivemate">
-        <img src="https://img.shields.io/badge/GitHub-Private_Repository-gray?style=flat-square&logo=github" />
+      <a href="https://github.com/neurodrrive/drivemate">
+        <img src="https://img.shields.io/badge/GitHub-View_Project-black?style=flat-square&logo=github" />
       </a>
       <img src="https://img.shields.io/badge/LangGraph-4B8BBE?style=flat-square&logo=langchain&logoColor=white" />
     </td>
