@@ -114,13 +114,14 @@ I'm passionate about creating intelligent systems that make a real difference. W
     <td align="center"><a href="https://python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" /></a></td>
     <td align="center"><a href="https://pandas.pydata.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" /></a></td>
     <td align="center"><a href="https://numpy.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" /></a></td>
+    <td align="center"><a href="https://spark.apache.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="50" height="50" alt="Apache Spark" /></a></td>
     <td align="center"><a href="https://matplotlib.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib" /></a></td>
     <td align="center"><a href="https://seaborn.pydata.org" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="50" height="50" alt="Seaborn" /></a></td>
     <td align="center"><a href="https://scikit-learn.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-Learn" /></a></td>
     <td align="center"><a href="https://opencv.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="50" height="50" alt="OpenCV" /></a></td>
-    <td align="center"><a href="https://ultralytics.com" target="_blank"><img src="https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/680a070c3b99253410dd3e61_Ultralytics_mark_blue.svg" width="50" height="50" alt="YOLO" /></a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://ultralytics.com" target="_blank"><img src="https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/680a070c3b99253410dd3e61_Ultralytics_mark_blue.svg" width="50" height="50" alt="YOLO" /></a></td>
     <td align="center"><a href="https://www.tensorflow.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" /></a></td>
     <td align="center"><a href="https://pytorch.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" /></a></td>
     <td align="center"><a href="https://huggingface.co" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50" height="50" alt="Hugging Face" /></a></td>
@@ -128,9 +129,9 @@ I'm passionate about creating intelligent systems that make a real difference. W
     <td align="center"><a href="https://www.langchain.com" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/langchain.png" width="50" height="50" alt="LangChain" /></a></td>
     <td align="center"><a href="https://python.langchain.com/docs/langgraph" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/langgraph-color.png" width="50" height="50" alt="LangGraph" /></a></td>
     <td align="center"><a href="https://llamaindex.ai" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/llamaindex-color.png" width="50" height="50" alt="LlamaIndex" /></a></td>
-    <td align="center"><a href="https://github.com/huggingface/smol-agent" target="_blank"><img src="https://cdn-avatars.huggingface.co/v1/production/uploads/63d10d4e8eaa4831005e92b5/a3R8vs2eGE578q4LEpaHB.png" width="50" height="50" alt="SmolAgents" /></a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/huggingface/smol-agent" target="_blank"><img src="https://cdn-avatars.huggingface.co/v1/production/uploads/63d10d4e8eaa4831005e92b5/a3R8vs2eGE578q4LEpaHB.png" width="50" height="50" alt="SmolAgents" /></a></td>
     <td align="center"><a href="https://vllm.ai" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/vllm-color.png" width="50" height="50" alt="vLLM" /></a></td>
     <td align="center"><a href="https://ollama.com" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/ollama.png" width="50" height="50" alt="Ollama" /></a></td>
     <td align="center"><a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" /></a></td>
@@ -138,19 +139,20 @@ I'm passionate about creating intelligent systems that make a real difference. W
     <td align="center"><a href="https://streamlit.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="50" height="50" alt="Streamlit" /></a></td>
     <td align="center"><a href="https://gradio.app" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/gradio-color.png" width="50" height="50" alt="Gradio" /></a></td>
     <td align="center"><a href="https://www.postman.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50" alt="Postman" /></a></td>
-    <td align="center"><a href="https://n8n.io" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/n8n-color.png" width="50" height="50" alt="n8n" /></a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://n8n.io" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/n8n-color.png" width="50" height="50" alt="n8n" /></a></td>
     <td align="center"><a href="https://dify.ai" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/dify-color.png" width="50" height="50" alt="Dify" /></a></td>
     <td align="center"><a href="https://azure.microsoft.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50" height="50" alt="Azure" /></a></td>
     <td align="center"><a href="https://www.docker.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" /></a></td>
+    <td align="center"><a href="https://kubernetes.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="50" height="50" alt="Kubernetes" /></a></td>
     <td align="center"><a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" /></a></td>
     <td align="center"><a href="https://sqlite.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite" /></a></td>
     <td align="center"><a href="https://www.mongodb.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" /></a></td>
-    <td align="center"><a href="https://qdrant.tech" target="_blank"><img src="https://qdrant.tech/img/qdrant-logo.svg" width="50" height="50" alt="Qdrant" /></a></td>
-    <td align="center"><a href="https://git-scm.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" /></a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://qdrant.tech" target="_blank"><img src="https://qdrant.tech/img/qdrant-logo.svg" width="50" height="50" alt="Qdrant" /></a></td>
+    <td align="center"><a href="https://git-scm.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" /></a></td>
     <td align="center"><a href="https://github.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub" /></a></td>
     <td align="center"><a href="https://www.linux.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" /></a></td>
     <td align="center"><a href="https://jupyter.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter" /></a></td>
